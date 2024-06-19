@@ -1,4 +1,4 @@
-**Expertized in:**
+**Area of Expertise:**
 ```txt
 Ansible  ███████░░░░░   90%
 Python  ███░░░░░░░  50%
