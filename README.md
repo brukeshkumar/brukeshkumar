@@ -1,9 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Rukesh,
+<p>Welcome to my page! </br> 
 
-**Love OpenSource projects**
+My name is Rukesh, and I have been in the IT industry for around ten years. I started out as a system and network administrator, worked for a year, then moved to a role as a Linux and storage administrator, worked for three years in cloud automation, and am currently in DevOps.
+
+
 
 **Area of Expertise:**
 ```txt
