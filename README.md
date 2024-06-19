@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> 
 
-My name is Rukesh, and I have been in the IT industry for around ten years. I started out as a system and network administrator, worked for a year, then moved to a role as a Linux and storage administrator, worked for three years in cloud automation, and am currently in DevOps.
+My name is Rukesh, and I have been in the IT industry for around ten years. I started out as a system and network administrator, worked for a year, then moved to a role as a Linux and storage administrator three years, worked for three years in cloud automation, and am currently in DevOps.
 
 
 
