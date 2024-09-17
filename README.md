@@ -11,6 +11,7 @@ My name is Rukesh, and I have been in the IT industry for around ten years. I st
 ```txt
 IT Infrastructure  ███████░░░░░   90%
 containerized platform  ████░░░░  60%
+GitActions ███░░░░  50%
 CICD  ███░░░░  50%
 Helm  ████░░░░  60%
 Ansible  █████░░░░   80%
